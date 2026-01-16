@@ -2179,14 +2179,40 @@
     "QA": {
       "QA_ALL": {
         "tag_name": "Digital Marketing",
-        "description": "Get insights from 744 questions on Digital Marketing, answered by students, alumni, and experts. You may also ask and answer any question you like about Digital Marketing",
+        "description": "Get insights from 745 questions on Digital Marketing, answered by students, alumni, and experts. You may also ask and answer any question you like about Digital Marketing",
         "stats": {
-          "Questions": "744",
+          "Questions": "745",
           "Discussions": "0",
-          "Active Users": "43",
+          "Active Users": "42",
           "Followers": "509"
         },
         "questions": [
+          {
+            "question_text": "Who is eligible for BA Graphic Design and Digital Marketing at Manipal Institute of Communication?",
+            "tags": [
+              {
+                "tag_name": "Digital Marketing",
+                "tag_url": "https://www.shiksha.com/tags/digital-marketing-tdp-515456"
+              },
+              {
+                "tag_name": "Manipal Institute of Communication",
+                "tag_url": "https://www.shiksha.com/tags/manipal-institute-of-communication-tdp-194407"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Candidates must pass Class 12 or equivalent from a recognised board to apply for BA Graphic Design and Digital Marketing at Manipal Institute of Communication. Aspirants also need to appear for a Home-Based Test followed by a PI round to get admission in this course.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 days ago"
+              }
+            ]
+          },
           {
             "question_text": "What is the scope of digital marketing.",
             "tags": [
@@ -2209,7 +2235,7 @@
                 "answer_text": "The scope of digital marketing is growing rapidly as businesses move toward online platforms to reach their customers. With increasing internet usage, smartphones, and social media, digital marketing has become essential for brand visibility, lead generation, and sales growth. Today, businesses of all sizes use digital channels to connect with their target audience more effectively than traditional marketing methods. Digital marketing offers a wide range of opportunities through services such as search engine optimization (SEO), social media marketing, pay-per-click advertising (PPC), content marketing, and email marketing. These strate",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "6 days ago"
               }
             ]
           },
@@ -2235,34 +2261,12 @@
                 "answer_text": "Hey, Since you have a B.Com and are good at accounting, you already have a strong foundation. But if you are more interested in digital marketing than doing M.Com, it makes sense to follow what excites you. You can start learning digital marketing through courses and practical work, while using your commerce knowledge as an added strength. This way, you can build a career in a field you enjoy without losing the advantage of your accounting background.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which course is better to pursue among Digital Marketing and Social Media Marketing?",
-            "tags": [
-              {
-                "tag_name": "Digital Marketing",
-                "tag_url": "https://www.shiksha.com/tags/digital-marketing-tdp-515456"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Mamta Bankoti",
-                  "profile_url": "https://www.shiksha.com/userprofile/98616082"
-                },
-                "answer_text": "Hey, If you are confused between digital marketing and social media marketing, it really comes down to what kind of work you want to do in the future. Digital marketing is a wider field that teaches you how online marketing works as a whole, including SEO, paid ads, content writing, email campaigns, website traffic and social media. Because of this, it open up more job opportunities nad give you the freedom to work in different roles or even switch paths later. Social media marketing on the other hand, focuses mainly on platforms like Instagram, Facebook, YouTube and LinkedIn. It is more about creating content engaging with people",
-                "upvotes": 0,
-                "downvotes": 0,
                 "posted_time": "a week ago"
               }
             ]
           },
           {
-            "question_text": "Digital, Marketing Company.",
+            "question_text": "Can you suggest some of the best Digital Marketing Companies?",
             "tags": [
               {
                 "tag_name": "Digital Marketing",
@@ -2280,10 +2284,10 @@
                   "name": "shashikanth",
                   "profile_url": "https://www.shiksha.com/userprofile/100068886"
                 },
-                "answer_text": "There are many digital marketing companies in india. Here are the list : Agency Primary Focus Notable Tool/Feature WebFX Revenue & AI MarketingCloudFX NP Digital Content & Authority Ubersuggest Integration Oxygenites Ethical SEO & Leads Search Everywhere Strategy Thrive Holistic Presence Thrive Score Disruptive Paid Performance Account Audit Specialists",
+                "answer_text": "Yes sure, There are many digital marketing companies in India. You can check out the list of agencies along with their primary focus and tools that they are famous for in the table below for your reference - Agency Primary Focus Notable Tool/Feature WebFX Revenue & AI MarketingCloudFX NP Digital Content & Authority Ubersuggest Integration Oxygenites Ethical SEO & Leads Search Everywhere Strategy Thrive Holistic Presence Thrive Score Disruptive Paid Performance Account Audit Specialists Source - External sites",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 weeks ago"
+                "posted_time": "3 weeks ago"
               }
             ]
           },
@@ -2309,12 +2313,12 @@
                 "answer_text": "Hey, Doing an MBA in Digital Marketing from Chandigarh University Online is a good option if you want, A recognised MBA degree that is valid for jobs and higher studies. Flexibility to study while working Knowledge of both management and digital marketing. But it may not be the best if you want only practical skills or top company placements, because online programs are more theoretical and placement support can vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 weeks ago"
+                "posted_time": "3 weeks ago"
               }
             ]
           },
           {
-            "question_text": "Can you suggest top 5 BBA colleges in digital marketing in Kanpur and Lucknow?",
+            "question_text": "What would be the salary of a fresher in digital marketing?",
             "tags": [
               {
                 "tag_name": "Digital Marketing",
@@ -2329,18 +2333,44 @@
             "answers": [
               {
                 "author": {
-                  "name": "Neethu Nanjan",
-                  "profile_url": "https://www.shiksha.com/userprofile/98861080"
+                  "name": "Mamta Bankoti",
+                  "profile_url": "https://www.shiksha.com/userprofile/98616082"
                 },
-                "answer_text": "BBA in Digital Marketing is becoming popular in cities like Kanpur and Lucknow because companies now need online marketing skills. In Kanpur, Rama University is a good option as it offers a BBA programme with digital marketing subjects and practical exposure. For students near Lucknow, Chandigarh University (Unnao campus) provides a BBA (Hons.) in Digital Marketing with strong industry-focused learning. Integral University, Lucknow and Babasaheb Bhimrao Ambedkar University (BBAU) also offer BBA programs where students can build a base in marketing and business, which helps in digital marketing careers. Along with regular colleges, Skill",
+                "answer_text": "A fresher in digital marketing usually earns between 15000 and 25000 per month. in bigger cities, it can go up to 20000 to 30000, while in small cities or startups, it's often around 10000 to 18000. Learning skills like SEO, social media, google ads, or content creation can help you earn more.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 weeks ago"
+                "posted_time": "a month ago"
               }
             ]
           },
           {
-            "question_text": "How does AAFT digital marketing programme compare with similar degrees offered by Delhi colleges?",
+            "question_text": "Which are the best digital marketing institutes in Kolkata? What are the job opportunities and salary offered to a fresher?",
+            "tags": [
+              {
+                "tag_name": "Digital Marketing",
+                "tag_url": "https://www.shiksha.com/tags/digital-marketing-tdp-515456"
+              },
+              {
+                "tag_name": "Business Management Studies",
+                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Mamta Bankoti",
+                  "profile_url": "https://www.shiksha.com/userprofile/98616082"
+                },
+                "answer_text": "Some of the best digital marketing institute in kolkata are NYD India, W3webschool, IDCM, NIHT Digital marketiing, Skill Circle, Seven Boats Academy and Digital Spinner Academy.  They give practical training, real projects and help with job placements. Fresher can work as Digital Marketing Executive, SEO Executive, Social Media Executive or Content Marketing Executive. The starting salary is usually 1.8L - 3.5L per year, and it can increase with experience and certifications.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "a month ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Does the Digital Marketing curriculum at AAFT include AI-driven marketing, automation tools, and analytics training?",
             "tags": [
               {
                 "tag_name": "Digital Marketing",
@@ -2355,52 +2385,26 @@
             "answers": [
               {
                 "author": {
-                  "name": "ABHINAV SRIVASTAVA",
-                  "profile_url": "https://www.shiksha.com/userprofile/73443045"
+                  "name": "heena agrawaltry to give best solution..",
+                  "profile_url": "https://www.shiksha.com/userprofile/4889108"
                 },
-                "answer_text": "AAFT's digital marketing course is focused on practical application and media, whereas colleges in Delhi tend to offer students an educational depth (in terms of academics) and industry connections. AAFT offers digital marketing in conjunction with a creative media major. They provide students with a real-world experience through project-based learning. They prepare students who want to enter fields such as (but not limited to) advertising, SEO, social media management, and PPC, and who have creativity as an asset. Colleges like Amity and Digital Vidya offer structured educational programs (degrees or certificates) with excellent",
+                "answer_text": "Hi. Yes, The B.Sc in Digital Marketing at AAFT includes a “Web Analytics and Tools” subject (Semester 4) — which means students learn about analytics and presumably use analytics software/tools. The curriculum also covers Online / Display / Media‑Buying Marketing, Programmatic Ads, Lead‑Generation and Funnel Management, Affiliate Marketing, Email Marketing — these are domains where marketing automation and data‑tracking are relevant. Under “Skills Acquisition, ” AAFT lists “Analytics and Reporting, ” “UX / UI Basics, ” “Content Creation, ” “Branding and Storytelling” — indicating a mix of creative",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 weeks ago"
+                "posted_time": "a month ago"
               }
             ]
           },
           {
-            "question_text": "What is the scope of digital marketing?",
+            "question_text": "Which is the best Digital marketing institute in Kochi?",
             "tags": [
               {
                 "tag_name": "Digital Marketing",
                 "tag_url": "https://www.shiksha.com/tags/digital-marketing-tdp-515456"
               },
               {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
-              }
-            ],
-            "followers": 1,
-            "answers": [
-              {
-                "author": {
-                  "name": "Sandhya",
-                  "profile_url": "https://www.shiksha.com/userprofile/99259162"
-                },
-                "answer_text": "I'm Sandhya, and as a digital marketer, I can confidently say the scope of digital marketing is very strong and promising for the future. Almost every business today depends on online platforms to reach customers, which creates continuous demand for digital marketing professionals. From SEO, social media, and paid ads to content marketing and analytics, there are many career paths to grow into based on your interest and skills. With more people spending time online and companies increasing their digital budgets every year, opportunities are only expanding. It's a field where you can start as a fresher, grow with experience, work",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 weeks ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which institute should I go for to learn digital marketing- Digital Vidya or Simplilearn? Which is the best?",
-            "tags": [
-              {
-                "tag_name": "Digital Marketing",
-                "tag_url": "https://www.shiksha.com/tags/digital-marketing-tdp-515456"
-              },
-              {
-                "tag_name": "Business Management Studies",
-                "tag_url": "https://www.shiksha.com/tags/business-management-studies-tdp-17"
+                "tag_name": "Kochi",
+                "tag_url": "https://www.shiksha.com/tags/kochi-tdp-386261"
               }
             ],
             "followers": 0,
@@ -2410,10 +2414,10 @@
                   "name": "Neethu Nanjan",
                   "profile_url": "https://www.shiksha.com/userprofile/98861080"
                 },
-                "answer_text": "If you want to learn digital marketing, all three institutes—Digital Vidya, Skillfloor, and Simplilearn are popular. Choosing the best depends on what you want and how you like to learn. Skillfloor offers practical, hands-on learning with projects. You learn by doing, which helps in real jobs. Digital Vidya is good for structured courses with certifications, but may be more theory-focused. Simplilearn provides flexible online learning and is good if you want global certification. Cost & Duration: Skillfloor is usually more affordable and shorter, so you can start quickly. Support & Community: Skillfloor gives support and a community of le",
+                "answer_text": "Skillfloor is considered one of the best digital marketing institutes in Kochi because it offers easy-to-understand training, practical projects, and expert guidance, helping students build real digital marketing skills and prepare confidently for job opportunities.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 weeks ago"
+                "posted_time": "a month ago"
               }
             ]
           }
